@@ -1,4 +1,4 @@
-# Ph_printf_tester - ENG
+# Ph_printf_tester
 Tester intended to closely evaluate the "ft_printf" project as part of the school 42 project.
 
 The tester only performs tests on the mandatory part.
